@@ -1,4 +1,4 @@
-# HSG-OBD2-CAN-Module
+# Horizon-OBD2-CAN-Module
 
 Horizon OBD2 CAN Programmable Module 
 The Horizon OBD-Interface Module is a freely programmable and universal electronic device, which can be used in the automotive field. It e.g. can be directly attached to OBD2 Standard Interface, supporting CAN-Bus communication but a implementation to another CAN-Bus can also be supported with appropriate wiring harness. 
